@@ -10,5 +10,6 @@ public class ss {
         System.out.println("1111122222222222222");
         System.out.println("1111122222222222222");
         System.out.println("1111122222222222222");
+        System.out.println("水水水水水水水水水水水水水水水水水水");
     }
 }
